@@ -1,0 +1,2 @@
+rootProject.name='ACTVApp'
+include ':app'
